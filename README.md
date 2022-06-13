@@ -1,7 +1,17 @@
+ <h3 align="center">
+   🐣 Hello! I'm HAEWON 🐥 
+ </h3>
+
+<div align="center">
+
+![HAEWON’s GitHub stats](https://github-readme-stats.vercel.app/api?username=godnjs1582&theme=default&show_icons=true)
+  
+</div>  
+
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godnjs1582&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  ### 🐣 HAEWON 🐥 
+  ### 🐣 Skill & Tool 🐥 
   <div align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
