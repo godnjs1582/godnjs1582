@@ -2,7 +2,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godnjs1582&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   ### 🐣 HAEWON 🐥 
-  <div align="center">
+  <div align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
